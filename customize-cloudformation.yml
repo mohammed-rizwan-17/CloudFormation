@@ -1,7 +1,7 @@
 AWSTemplateFormatVersion: '2010-09-09'
 Description: >
   CloudFormation template to create an S3 bucket, CloudFront distribution with Origin Access Identity,
-  AWS WAF rules, and Route 53 DNS records.
+  AWS WAF rules, and Route 53 DNS records testing.
 
 Parameters:
   DomainName:
